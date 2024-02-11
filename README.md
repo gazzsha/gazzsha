@@ -16,7 +16,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='filter: invert(40%) sepia(95%) saturate(2410%) hue-rotate(179deg) brightness(102%) contrast(103%);'>](https://t.me/Gazssha)
 
 
-### *Leetcode*
+### *Stats*
 
 ![](https://leetcard.jacoblin.cool/gazsha?theme=wtf&font=Dancing_Script&border=0&radius=20)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazzsha)
 
