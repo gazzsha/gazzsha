@@ -20,4 +20,4 @@
 [![Gazsha LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gazsha&theme=dark)](https://leetcode.com/gazsha/)
 
 
-![](https://leetcard.jacoblin.cool/gazsha?site=gazsha?font=Dancing_Script?theme=wtf?border=0&radius=20)
+![](https://leetcard.jacoblin.cool/gazsha?site=gazsha?theme=wtf&font=Dancing_Scriptborder=0&radius=20)
