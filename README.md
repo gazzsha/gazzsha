@@ -1,9 +1,6 @@
-### Hi there 👋
+## Student& *Java Developer*
 
-<!--
-**gazzsha/gazzsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgreSQL&logoColor=4682B4)
+![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring&logoColor=#00FF00)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C%2b%2b&logoColor=00008B)
+
+[![Gazsha LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gazsha&theme=dark)](https://leetcode.com/gazsha/)
+
+
+![](https://leetcard.jacoblin.cool/gazsha?site=gazsha?font=Dancing_Script?theme=wtf?border=0&radius=20)
